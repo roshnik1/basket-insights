@@ -13,5 +13,5 @@ __pycache__/
 # Ignore Jupyter Notebook checkpoints
 .ipynb_checkpoints/
 
-# Ignore environment variables file
+# Ignore environment variables file for postgres connection details
 .env
